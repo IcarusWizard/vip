@@ -22,7 +22,7 @@ setup(
     long_description=read('README.md'),
     author='Jason Ma (Meta AI)',
     install_requires=[
-    'gdown==4.4.0', 
+    'gdown', 
     'torch>=1.7.1',
     'torchvision>=0.8.2',
     'omegaconf>=2.1.1',
